@@ -1,3 +1,6 @@
+# TwitterNotes
+ Fikir guzel gelince kendim kullanmak icin yazdim.Istek gelirse daha derli toplu hale getirebilirim.
+
 # Chrome Web Store
 
 Yakin zamanda link gelir
@@ -9,10 +12,10 @@ Repo'yu indirip Extensions kismindan yukleyebilirsiniz
 
 ## Usage
 
-bullet
+Kayitli not varsa tik gorunuyor,not ekle/cikar var, edit simdilik yok
 
 ## Contributing
-Istek gelirse daha derli toplu hale getirebilirim, fikir guzel gelince kendim kullanmak icin yazdim. chrome.sync e kaydeediyor, o yuzden cok kucuk bi hafizasi var.
+. chrome.sync e kaydeediyor, o yuzden cok kucuk bi hafizasi var.
 * daha fazla hafiza icin local storage'a gecebilirim
 * ui i toparlayabilirim
 
