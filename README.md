@@ -1,5 +1,12 @@
 # TwitterNotes
  Fikir guzel gelince kendim kullanmak icin yazdim.Istek gelirse daha derli toplu hale getirebilirim.
+ 
+ # Chrome Accounts (?)
+ Chrome kullanmadigim icin emin degilim de, chrome.sync kullandigim icin diger bilgisayarlarinizda falan da cikacak ayni data.
+ 
+ # Persistence
+ 
+ Iste burda bi problem var. Db, backend yok dogal olarak. Ugrasmadim yani. Dataniz gidebilir, kefil degilim. Sanirim store a koydugumu localstorage ile yapacagim, sync ozelligi olmayacak ama 5 kusur mb hafiza olacak.
 
 # Chrome Web Store
 
