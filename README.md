@@ -1,5 +1,6 @@
 # TwitterNotes
  Fikir guzel gelince kendim kullanmak icin yazdim.Istek gelirse daha derli toplu hale getirebilirim.
+ Twitter'da kullanıcılar hakkında not alıp, daha sonra profiline girdiğinizde notu görebiliyorsunuz.
  
  # Chrome Accounts (?)
  Chrome kullanmadigim icin emin degilim de, chrome.sync kullandigim icin diger bilgisayarlarinizda falan da cikacak ayni data.
